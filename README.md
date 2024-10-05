@@ -55,7 +55,8 @@
 
 
 ## 🎞️ 데이터 소스
-영화 데이터는 약 9,300편의 영화 설명 및 메타데이터를 포함하고 있습니다.
+영화 데이터는 10,000편의 영화 설명 및 메타데이터를 포함하고 있습니다.
+이 중 결측치를 제거한 9,300편의 영화만 사용하였습니다.
 데이터는 **Kaggle IMDb Movie Dataset**에서 가져왔습니다.
 
 [IMDb 데이터셋 다운로드 링크](https://www.kaggle.com/datasets/amanbarthwal/imdb-movies-data)
