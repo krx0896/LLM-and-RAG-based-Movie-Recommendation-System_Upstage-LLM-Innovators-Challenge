@@ -1,6 +1,6 @@
-# LLM 기반 영화 추천 시스템
+# LLM & RAG 기반 영화 추천 시스템
 
-![시스템 프레임워크](./path_to_framework_image.png)
+![시스템 프레임워크](/image/프레임워크.png)
 
 ## 프로젝트 개요
 
