@@ -1,4 +1,4 @@
-## 프로젝트 개요
+## 📖 프로젝트 개요
 
 이 프로젝트는 [명품인재×업스테이지] LLM Innovators Challenge에서 진행된 영화 추천 시스템입니다. 사용자의 쿼리를 바탕으로, LLM과 RAG(Retrieval-Augmented Generation)를 활용하여 9,300여 편의 영화 데이터에서 사용자의 취향에 맞는 영화를 추천합니다.
 
@@ -6,7 +6,7 @@
 - **참여 기간**: 2024년 9월 20일 ~ 2024년 10월 6일
 
 
-## 시스템 프레임워크
+## 🦴 시스템 프레임워크
 - 본 시스템은 LLM을 활용하여 사용자의 질의를 처리하고, Pinecone 벡터 스토어에서 영화 데이터를 검색하여 가장 적합한 영화를 추천하는 시스템입니다. 실시간 데이터 검색이 가능한 RAG 구조를 사용하여 신뢰성 있는 추천 결과를 제공합니다.
 
 ![시스템 프레임워크](/image/프레임워크.png)
@@ -54,17 +54,17 @@
    export MY_PINECONE_API_KEY='your-pinecone-api-key'
 
 
-## 데이터 소스
+## 🎞️ 데이터 소스
 영화 데이터는 약 9,300편의 영화 설명 및 메타데이터를 포함하고 있습니다.
 데이터는 **Kaggle IMDb Movie Dataset**에서 가져왔습니다.
 
 [IMDb 데이터셋 다운로드 링크](https://www.kaggle.com/datasets/amanbarthwal/imdb-movies-data)
 
-## 데모 영상
+## 🎬 데모 영상
 프로젝트의 데모 영상은 아래 링크에서 확인할 수 있습니다:
 [데모 영상 유튜브 링크](https://youtu.be/cLDNgXLfgQU?si=jNMxtaVZ94VvPykl)
 
-## 추천 결과 예시
+## 🎆 추천 결과 예시
 쿼리: "가슴이 웅장해지는 역사적 배경을 담은 뮤지컬 영화 추천해줘"
 추천 결과:
 
